@@ -1,0 +1,53 @@
+* {
+    align-content: auto;
+}
+button {
+    background-color: pink;
+    color: red;
+}
+p {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
+}
+nav {
+    background-color: #007749;
+    border: 2px solid white;
+
+}
+li {
+    display: inline-block;
+    border: 2px solid #000000;
+    margin: 30;
+}
+a {
+    color: aliceblue;
+    font-size: 20px;
+}
+img{
+    height: 50%;
+    width: auto;
+    display: inline;
+    border: 4px solid white;
+}
+h1 {
+    color:black;
+    border-color: #007749;
+}
+
+h2 {
+    color: #000000;
+}
+h3 {
+    color: aliceblue;
+}
+body {
+    background: linear-gradient(to bottom, #E03C31, #007749, #001489, #FFB81C, #000000);
+    /* Adjust the gradient stops to match the flag colors */
+    /* You can also use specific color codes for each section */
+    /* Example: background: #E03C31; for the top section */
+    /* Example: background: #007749; for the second section, and so on */
+    /* Add any other styles you need for your webpage */
+}
+#cap6 {
+    
+}
